@@ -20,7 +20,7 @@ local decs = {
 				text = {
 					"{X:dark_edition,C:white}^^#1#{} Mult",
 					"increase by {X:dark_edition,C:white}^^#2#{}",
-					"when card is scored."
+					"when card is scored"
 				}
 			},
 			m_entr_dark = {
